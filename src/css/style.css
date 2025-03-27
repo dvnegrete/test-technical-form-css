@@ -1,0 +1,21 @@
+/* .form > input {
+    margin: 10px;
+}
+
+.form > button {
+    margin: 10px;
+} */
+
+.form input:nth-child(-n+3) {
+    position: relative;
+    width: calc(    );
+}
+
+.form .address {
+    width: 100%
+}
+
+.form > .place-of-work .job-title {
+    margin: 50px;
+}
+
